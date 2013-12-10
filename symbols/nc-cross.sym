@@ -1,0 +1,18 @@
+v 20121123 2
+P 0 100 100 100 1 0 0
+{
+T 500 100 5 10 0 0 180 8 1
+pinseq=1
+T 500 300 5 10 0 0 180 8 1
+pinnumber=1
+}
+L 175 25 25 175 3 0 0 0 -1 -1
+T 0 500 8 10 0 0 0 0 1
+value=NoConnection
+T 0 600 8 10 0 0 0 0 1
+documentation=nc.pdf
+T 0 900 8 10 0 0 0 0 1
+graphical=1
+L 25 25 175 175 3 0 0 0 -1 -1
+T 0 700 8 9 0 0 0 0 1
+device=none

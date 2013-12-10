@@ -1,0 +1,25 @@
+
+Element["" "" "TY-145P" "" 410.00mil 354.08mil -12.00mil -423.00mil 0 100 ""]
+(
+	Pin[-187.00mil 210.00mil 90.00mil 20.00mil 96.00mil 60.00mil "1" "1" "edge2"]
+	Pin[187.00mil 210.00mil 90.00mil 20.00mil 96.00mil 60.00mil "2" "2" "edge2"]
+	Pin[-187.00mil -210.00mil 90.00mil 20.00mil 96.00mil 60.00mil "3" "3" "edge2"]
+	Pin[187.00mil -210.00mil 90.00mil 20.00mil 96.00mil 60.00mil "4" "4" "edge2"]
+	Pin[0.0000 210.00mil 90.00mil 20.00mil 96.00mil 60.00mil "5" "5" "edge2"]
+	Pin[0.0000 -210.00mil 90.00mil 20.00mil 96.00mil 60.00mil "6" "6" "edge2"]
+	ElementLine [-300.00mil -350.00mil 300.00mil -350.00mil 8.00mil]
+	ElementLine [-406.00mil -90.00mil 406.00mil -90.00mil 8.00mil]
+	ElementLine [-406.00mil -90.00mil -406.00mil 90.00mil 8.00mil]
+	ElementLine [-406.00mil 90.00mil 406.00mil 90.00mil 8.00mil]
+	ElementLine [406.00mil 90.00mil 406.00mil -90.00mil 8.00mil]
+	ElementLine [-350.00mil -300.00mil -350.00mil -90.00mil 8.00mil]
+	ElementLine [350.00mil -300.00mil 350.00mil -90.00mil 8.00mil]
+	ElementLine [-350.00mil 300.00mil -350.00mil 90.00mil 8.00mil]
+	ElementLine [-300.00mil 350.00mil 300.00mil 350.00mil 8.00mil]
+	ElementLine [350.00mil 300.00mil 350.00mil 90.00mil 8.00mil]
+	ElementArc [-300.00mil 300.00mil 50.00mil 50.00mil 0 90 8.00mil]
+	ElementArc [300.00mil 300.00mil 50.00mil 50.00mil 90 90 8.00mil]
+	ElementArc [-300.00mil -300.00mil 50.00mil 50.00mil 270 90 8.00mil]
+	ElementArc [300.00mil -300.00mil 50.00mil 50.00mil 180 90 8.00mil]
+
+	)
