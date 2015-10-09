@@ -1,0 +1,20 @@
+
+Element["" "" "REL_G6RN-1" "" 580.00mil 470.00mil 320.00mil -180.00mil 0 100 ""]
+(
+	Pin[0.0000 0.0000 2.0620mm 24.00mil 2.2144mm 1.3000mm "1" "1" "edge2"]
+	Pin[0.0000 -300.00mil 2.0620mm 24.00mil 2.2144mm 1.3000mm "5" "5" "edge2"]
+	Pin[19.0000mm -300.00mil 2.0620mm 24.00mil 2.2144mm 1.3000mm "4" "4" "edge2"]
+	Pin[1000.00mil -300.00mil 2.0620mm 24.00mil 2.2144mm 1.3000mm "3" "3" "edge2"]
+	Pin[22.2000mm 0.0000 2.0620mm 24.00mil 2.2144mm 1.3000mm "2" "2" "edge2"]
+	ElementLine [-1.6000mm 1.1900mm -1.6000mm -8.8100mm 8.00mil]
+	ElementLine [1.0400mm -8.8100mm 17.9700mm -8.8100mm 8.00mil]
+	ElementLine [26.9000mm -8.8100mm 26.9000mm 1.1900mm 8.00mil]
+	ElementLine [21.1700mm 1.1900mm 1.0300mm 1.1900mm 8.00mil]
+	ElementLine [-0.0200mm -1.8600mm -0.0200mm -5.7500mm 40.00mil]
+	ElementLine [-1.6000mm -8.8100mm -1.0300mm -8.8100mm 8.00mil]
+	ElementLine [-1.6000mm 1.1900mm -1.0300mm 1.1900mm 8.00mil]
+	ElementLine [20.0300mm -8.8100mm 24.3700mm -8.8100mm 8.00mil]
+	ElementLine [26.4300mm -8.8100mm 26.9000mm -8.8100mm 8.00mil]
+	ElementLine [26.9000mm 1.1900mm 23.2300mm 1.1900mm 8.00mil]
+
+	)
